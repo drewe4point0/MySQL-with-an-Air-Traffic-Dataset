@@ -63,7 +63,7 @@ Find the average departure delay for each time-of-day across the whole data set.
 
 ## Data: 
 
-The data has been sourced from the open data portal at the Bureau of Transportation Statistics (https://www.transtats.bts.gov/DatabaseInfo.asp?QO_VQ=EFD&DB_URL=).
+The data has been sourced from the open data portal at the Bureau of Transportation Statistics (https://www.transtats.bts.gov/DatabaseInfo.asp?QO_VQ=EFD&DB_URL=).  It is available for download in SQL format [here](https://drive.google.com/file/d/1eAg_CWEChp9W1o4ebgp29oKrZyDArW7Y/view?usp=sharing).
 
 
 ### Data Dictionaries:
