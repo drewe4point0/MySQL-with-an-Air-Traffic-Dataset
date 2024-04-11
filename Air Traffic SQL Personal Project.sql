@@ -4,7 +4,7 @@
 -- "Delta" - Delta Air Lines Inc.
 
 # Question 1:
--- The managers of the BrainStation Mutual Fund want to know some basic details about the data. 
+-- The managers of the Invictus Mutual Fund want to know some basic details about the data. 
 -- Use fully commented SQL queries to address each of the following questions:
 
 # How many flights were there in 2018 and 2019 separately?
