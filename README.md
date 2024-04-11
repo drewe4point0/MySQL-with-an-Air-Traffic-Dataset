@@ -6,6 +6,7 @@
 - [Data](#data)
 - [Notebooks](#notebooks)
 - [Configuration](#configuration)
+- [Contact Info](#contact-info)
 
 
 
@@ -132,8 +133,10 @@ This project is contained in a single .sql file.
 This work was performed on MySQL Workbench, Version 8.0.34 build 3263449 CE (64 bits).
 
 
-If you have any questions about this project, I would love to speak with you!  Please don't hesitate to reach out:
-Phone: +1 778 995 7801
-Email: [Drewe.MacIver@gmail.com](mailto:drewe.maciver@gmail.com)
-LinkedIn: [Drewe MacIver on LinkedIn](https://www.linkedin.com/in/drewe-maciver/)
-Portfolio: [DreweItWithData.com](https://www.dreweitwithdata.com)
+## Contact Info
+If you have any questions about this project, I would love to speak with you! Please don't hesitate to reach out:
+
+- **Phone:** +1 778 995 7801
+- **Email:** [Drewe.MacIver@gmail.com](mailto:drewe.maciver@gmail.com)
+- **LinkedIn:** [Drewe MacIver on LinkedIn](https://www.linkedin.com/in/drewe-maciver/)
+- **Website:** [DreweItWithData.com](https://www.dreweitwithdata.com)
